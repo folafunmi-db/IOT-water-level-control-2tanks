@@ -8,6 +8,10 @@ Some early pictures:
 
 ![breadboarded circuit](https://res.cloudinary.com/folafunmi/image/upload/v1583605249/20200307_114311_jfjoo8.jpg)
 
+----------------------------------------------------------------------------------------------------------------
+
 Circuit Setup
+
+----------------------------------------------------------------------------------------------------------------
 
 ![circuit Setup](https://res.cloudinary.com/folafunmi/image/upload/v1584051030/Circuit_ra5s8v.png)
