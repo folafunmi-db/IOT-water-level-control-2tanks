@@ -1,6 +1,6 @@
 ## IOT Water Level Control with Two Tanks
 
-Credit to [Electronic Clinics tutorial](https://www.electroniclinic.com/iot-water-level-monitoring-using-ultrasonic-sensor/)
+Credit to [Electronic Clinics tutorial](https://www.electroniclinic.com/iot-water-level-monitoring-using-ultrasonic-sensor/) for inspiration
 
 Adapted for two ultrasonic sensors to monitor two tanks
 
