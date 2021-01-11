@@ -9,7 +9,7 @@ int pinValue1;
 
 String v2Arduino; // values to Arduino
 
-char auth[] = "wyFb6Bl3aGVd2whpjrnuZxJEJ2I4MJox";
+char auth[] = "insert auth token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
